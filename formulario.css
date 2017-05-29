@@ -1,3 +1,16 @@
+li {
+	background-color:#999;
+	display:inline;
+}
+#boton{
+	background-color:#00F;
+}
+#titulo{
+	background-color:#999;
+}
+body {
+	background-color:#CCC;
+}
 #textoContacto {
 	width: 500px;
 	position: relative;
